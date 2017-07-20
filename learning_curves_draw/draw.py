@@ -23,7 +23,7 @@ def extract_loss(input_file,flag,num):
 
 
 if __name__ == '__main__':
-   filename='p2.txt'
+   filename='train_log.txt'
 #rcnn 
 #    loss_bbox =np.array( extract_loss(filename,'#0',80))
 #    loss_cls = np.array(extract_loss(filename,'#1',79))
