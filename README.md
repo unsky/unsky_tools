@@ -1,7 +1,6 @@
 # unsky_tools
-my tools for working
 
-自己使用的工具包目前包括：
+my tools 目前包括：
 
 annotations_process (各种data sets ground truth的处理)
 
