@@ -12,3 +12,11 @@ for caffe
 
 
 ```
+
+```
+step 1: mkdir bads mkdir goods
+
+step2: python gt.py
+
+
+```
